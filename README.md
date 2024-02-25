@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a Geospatial technology-based company in Jakarta
 - 🌱 I’m currently learning **Geographic Information System** and all about **Open Source**
-- 📫 Reach me: [LinkedIn](https://www.petanikode.com/](https://www.linkedin.com/in/muhammad-nur-ubaidillah-a06b59199/) "Muhammad Nur Ubaidillah")
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-nur-ubaidillah-a06b59199/] "Muhammad Nur Ubaidillah")
 
 <!--
 - 👯 I’m looking to collaborate on ...
