@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ Now i'm making all web projects with Laravel (Blade, Inetia, React) and Next
+✨ Now i'm making all web projects with Laravel (Blade, Inertia, React) and Next
 
 <!--
 **cejeone/cejeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
